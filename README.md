@@ -118,17 +118,13 @@ We use two different utility functions for `PCC-Vivace-Latency` and `PCC-Vivace-
 
 - PCC-Vivace-Latency
 
-$$
-u \left( x _ { i } , \frac { d \left( R T T _ { i } \right) } { d T } , L _ { i } \right) = x _ { i } - b x _ { i } \frac { d \left( R T T _ { i } \right) } { d T } - c x _ { i } \times L _ { i }
-$$
+![Latency](doc/Latency.png)
 
 Here we set `b` as 900 and `c` as 11.
 
 - PCC-Vivace-Loss
 
-$$
-u \left( x _ { i } , L _ { i } \right) = x _ { i } - c x _ { i } \times L _ { i }
-$$
+![Loss](doc/Loss.png)
 
 Here we set `c` as 11.
 
