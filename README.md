@@ -2,7 +2,7 @@
 
 **P**erformance-oriented **C**ongestion **C**ontrol
 
-This is the code for Computer Networks course project in 2018 Fall to implement [PCC-Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf) as a Linux kernel module, maintained by [Han Xue](https://github.com/xiaoxiaoxh), [Yifan Zhang](https://github.com/YiF-Zhang), [Kaiwen Zha](https://github.com/Sunshine-KaiwenZha) and [Qibing Ren](https://github.com/renqibing).
+This is the code for Computer Networks course project in 2018 Fall to implement [PCC-Vivace](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-dong.pdf) as a Linux kernel module, maintained by [Han Xue](https://github.com/xiaoxiaoxh), [Yifan Zhang](https://github.com/YiF-Zhang), [Kaiwen Zha](https://github.com/KaiwenZha) and [Qibing Ren](https://github.com/renqibing).
 
 ## Using PCC
 
